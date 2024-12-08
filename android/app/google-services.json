@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772247878289",
+    "project_id": "happyhub-14a3c",
+    "storage_bucket": "happyhub-14a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772247878289:android:6d428207305852ed55dd30",
+        "android_client_info": {
+          "package_name": "com.hb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772247878289-8aaoiussn2tsipihfbj4o03d7cvu9bgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpD8k4dZTIoiJw3hMQIewnnwEpQqDNK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772247878289-8aaoiussn2tsipihfbj4o03d7cvu9bgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
